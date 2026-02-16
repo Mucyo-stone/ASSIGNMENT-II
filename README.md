@@ -107,7 +107,7 @@ I enclosed the password inside double quotes when connecting in SQL*Plus.
 
 Example:
 
-CONNECT username/"password@123";
+CONNECT stone ..../ stone#12000
 
 ## 2️⃣ OEM Login Issues
 
@@ -120,3 +120,9 @@ Switched to a compatible web browser
 Used the correct administrative login format
 
 Ensured Oracle services were running
+
+## Professional & Ethical Note
+
+## “Excellence is never an accident; it is the result of discipline, commitment, and integrity.”
+As future database professionals, we understand that precision, discipline, and integrity are non-negotiable.
+##  This project reflects my commitment to upholding professional and ethical standards in all database work.
